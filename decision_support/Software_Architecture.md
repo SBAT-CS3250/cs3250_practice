@@ -6,6 +6,6 @@
 ## [Command Line] ->
 ```The command line which allows you to install applications(OpenJDK and Apache Ant).```
 ## [OpenJDK]
-```Have OpenJDK which allows you to create and run java files. Source files location "cs3250_practice/heloCS3250/src/metrocs"```
+```Have OpenJDK which allows you to create and run java files. Source files location "cs3250_practice/helloCS3250/src/metrocs"```
 ## [Apache Ant]
-```Have Apache Ant which allows you to automate the process of compiling, running, and testing the java files. Build files once ran "cs3250_practice/heloCS3250/build/jar"```
+```Have Apache Ant which allows you to automate the process of compiling, running, and testing the java files. Build files once ran "cs3250_practice/helloCS3250/build/jar"```

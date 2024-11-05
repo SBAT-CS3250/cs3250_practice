@@ -2,7 +2,7 @@
 ## [User] ->
 ```User which is the person accessing the product.```
 ## [Ubuntu Linux Virtual Machine] -> 
-```Have the product open in something like a virtual machine.```
+```Have the product open in something like a virtual machine.  Ubuntu version "Ubuntu 22.04". Virtual machine option VirtualBox version 7.1.4 for operating systems Windows, macOS, Linux.```
 ## [Command Line] ->
 ```The command line which allows you to install applications(OpenJDK and Apache Ant).```
 ## [OpenJDK]
